@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30pt;
+}
+
+input, button {
+  font-size: 30pt;
+  border-radius: 0.25em;
+  padding: 0.25em;
+}
+input[type="checkbox"] {
+  transform: scale(2.5);
+  width: 20pt;
+}
+
+.todo > button {
+  margin-left: 0.5em;
+}
+
+.todos > div {
+  margin: 0.5em;
+}
